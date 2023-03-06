@@ -1,0 +1,8 @@
+# Filter everything...
+*
+
+# ... except the .gitignore...
+!.gitignore
+
+# # ... and all text files.
+# !*.txt

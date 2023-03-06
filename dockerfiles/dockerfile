@@ -7,7 +7,7 @@ COPY dockerfiles/requirements.txt /tmp/
 RUN set -ex; \
     pip3 --no-cache-dir install --requirement /tmp/requirements.txt
 
-ENV PYTHONPATH "/workspaces/CNN neutrinoless double-beta decay/src"
+ENV PYTHONPATH "/workspaces/CNN-0nBB-decay/src"
 
 # ARG USERNAME=researcher
 # ARG USER_UID=1000
