@@ -1,0 +1,11 @@
+# ipykernel==6.21.1
+jupyter==1.0
+tensorflow==2.11.0
+# keras==2.11.0
+numpy==1.24.2
+# #random
+matplotlib==3.6.3
+pillow==9.4.0 # contiene PIL para imágenes
+pydot==1.4.2 # para plot_model de keras.utils
+graphviz #==7.1.0 # para plot_model de keras.utils
+pytest==7.2.1 #tests programables
